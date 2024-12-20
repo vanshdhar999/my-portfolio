@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.8e8be34b.css",
+    "main.js": "/my-portfolio/static/js/main.1b25ed02.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/my-pic.jpg": "/my-portfolio/static/media/my-pic.cc09ab94f34d898e1a2b.jpg",
+    "static/media/stock.png": "/my-portfolio/static/media/stock.9176f9b1244c473778cd.png",
+    "static/media/movie.png": "/my-portfolio/static/media/movie.6d1ded8fcca655141288.png",
+    "static/media/crypto.png": "/my-portfolio/static/media/crypto.683624c271e23ffac8af.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.caeb9ff86e1c3e87612e.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.07d9e407d4e491c548d5.png",
+    "static/media/git.png": "/my-portfolio/static/media/git.985a7327fc7347ebdba0.png",
+    "static/media/python.png": "/my-portfolio/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/node.png": "/my-portfolio/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/phone-call.png": "/my-portfolio/static/media/phone-call.9f67e819001cd616ba13.png",
+    "static/media/profile.png": "/my-portfolio/static/media/profile.4bb671e7777621c71d6a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.d1a3c1e59ca82dbdf815.png",
+    "static/media/api.png": "/my-portfolio/static/media/api.b4448407872dc2a02104.png",
+    "static/media/figma.png": "/my-portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/email.png": "/my-portfolio/static/media/email.a2f2146f929409405da0.png",
+    "static/media/typescript.png": "/my-portfolio/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/selfcheckout.jpg": "/my-portfolio/static/media/selfcheckout.557fbbfa4d460fe71a40.jpg",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.3dfb665e058d08c99f28.png",
+    "static/media/Langchain--Streamline-Simple-Icons.svg": "/my-portfolio/static/media/Langchain--Streamline-Simple-Icons.80c07ebaa0e685cb1569c4d30f7f4690.svg",
+    "static/media/course-logo.svg": "/my-portfolio/static/media/course-logo.eb4765ff3f4466a0dcea7b6b7aa23f42.svg",
+    "static/media/latex-svgrepo-com.svg": "/my-portfolio/static/media/latex-svgrepo-com.38dc26b7c8a0993eec67e1d313bda4ed.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/Pandas.svg": "/my-portfolio/static/media/Pandas.5a48d1677b40ca61e96a08e92fdbb64d.svg",
+    "static/media/pytorch-icon.svg": "/my-portfolio/static/media/pytorch-icon.8653d1d6d7ba93c4c4ed583bbd51fb99.svg",
+    "main.8e8be34b.css.map": "/my-portfolio/static/css/main.8e8be34b.css.map",
+    "main.1b25ed02.js.map": "/my-portfolio/static/js/main.1b25ed02.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8be34b.css",
+    "static/js/main.1b25ed02.js"
+  ]
+}
