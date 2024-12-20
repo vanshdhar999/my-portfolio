@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e8be34b.css",
+    "main.js": "/static/js/main.19dbfbe4.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/my-pic.jpg": "/static/media/my-pic.cc09ab94f34d898e1a2b.jpg",
+    "static/media/stock.png": "/static/media/stock.9176f9b1244c473778cd.png",
+    "static/media/movie.png": "/static/media/movie.6d1ded8fcca655141288.png",
+    "static/media/crypto.png": "/static/media/crypto.683624c271e23ffac8af.png",
+    "static/media/github.png": "/static/media/github.caeb9ff86e1c3e87612e.png",
+    "static/media/react.png": "/static/media/react.07d9e407d4e491c548d5.png",
+    "static/media/git.png": "/static/media/git.985a7327fc7347ebdba0.png",
+    "static/media/python.png": "/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/node.png": "/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/phone-call.png": "/static/media/phone-call.9f67e819001cd616ba13.png",
+    "static/media/profile.png": "/static/media/profile.4bb671e7777621c71d6a.png",
+    "static/media/css.png": "/static/media/css.d1a3c1e59ca82dbdf815.png",
+    "static/media/api.png": "/static/media/api.b4448407872dc2a02104.png",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/email.png": "/static/media/email.a2f2146f929409405da0.png",
+    "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/selfcheckout.jpg": "/static/media/selfcheckout.557fbbfa4d460fe71a40.jpg",
+    "static/media/javascript.png": "/static/media/javascript.3dfb665e058d08c99f28.png",
+    "static/media/Langchain--Streamline-Simple-Icons.svg": "/static/media/Langchain--Streamline-Simple-Icons.80c07ebaa0e685cb1569c4d30f7f4690.svg",
+    "static/media/course-logo.svg": "/static/media/course-logo.eb4765ff3f4466a0dcea7b6b7aa23f42.svg",
+    "static/media/latex-svgrepo-com.svg": "/static/media/latex-svgrepo-com.38dc26b7c8a0993eec67e1d313bda4ed.svg",
+    "static/media/Pandas.svg": "/static/media/Pandas.5a48d1677b40ca61e96a08e92fdbb64d.svg",
+    "index.html": "/index.html",
+    "static/media/pytorch-icon.svg": "/static/media/pytorch-icon.8653d1d6d7ba93c4c4ed583bbd51fb99.svg",
+    "main.8e8be34b.css.map": "/static/css/main.8e8be34b.css.map",
+    "main.19dbfbe4.js.map": "/static/js/main.19dbfbe4.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8be34b.css",
+    "static/js/main.19dbfbe4.js"
+  ]
+}
